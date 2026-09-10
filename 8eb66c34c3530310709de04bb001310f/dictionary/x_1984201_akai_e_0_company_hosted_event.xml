@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="565960b8c3530310709de04bb00131f2" label="Company Hosted Event" max_length="40" name="x_1984201_akai_e_0_company_hosted_event" type="collection"/>
+</database>
